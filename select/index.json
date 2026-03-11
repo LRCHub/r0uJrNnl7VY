@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あなたといたいから",
+  "base_artist": "SA.RI.NA",
+  "createdAt": "2026-03-11T13:18:43.737603Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなたといたいから",
+      "artist": "SA.RI.NA",
+      "has_synced": false,
+      "path": "select/pl_01_あなたといたいから_SA.RI.NA.txt"
+    }
+  ]
+}
